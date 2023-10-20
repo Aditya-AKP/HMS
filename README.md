@@ -1,5 +1,4 @@
 # HMS
-This Project is a Hospital Management System
 Our Project Hospital Management System includes the registration of patients, storing their details in the system, and also booking their appointments with doctors. Our software has the facility to give a unique ID for every patient and stores the details of every patient.
 
 Users can search for the availability of a doctor and the details of a patient using the ID. The Hospital Management System can be entered using a username and password. 
